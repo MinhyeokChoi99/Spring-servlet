@@ -1,4 +1,4 @@
-package hello.servlet.web.springmvc.old;
+package hello.servlet.springmvc.old;
 
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
